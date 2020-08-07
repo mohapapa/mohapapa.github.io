@@ -1,0 +1,13 @@
+#colorDiv {
+
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(100, 200, 20, 0.1);
+}
+
+html {
+
+    background-color: #c0c0c0;
+    background-image: url(../images/); rep
+}
